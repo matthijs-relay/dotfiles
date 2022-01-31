@@ -8,4 +8,5 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $HOME/.oh-my-
 git clone https://github.com/zsh-users/zsh-autosuggestions $HOME/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 
 cp $HOME/.dotfiles/.zshrc $HOME/.zshrc
+cat $HOME/.dotfiles/.gitconfig >> $HOME/.gitconfig
 
